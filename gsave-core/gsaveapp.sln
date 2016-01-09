@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.24720.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gsaveapp", "gsaveapp\src\gsaveapp.csproj", "{68EE9908-8BFC-4186-A023-2E8771961C77}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gsaveapp", "src\gsaveapp.csproj", "{68EE9908-8BFC-4186-A023-2E8771961C77}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
