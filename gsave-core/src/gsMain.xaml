@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:gsaveapp"
         mc:Ignorable="d"
-        Title="G Save" Height="600" Width="800" Icon="gsavelogowhite.ico" MinWidth="800" MinHeight="600">
+        Title="G Save" Height="600" Width="800" Icon="gsavelogowhite.ico" MinWidth="800" MinHeight="600" WindowStartupLocation="CenterScreen">
     <Grid>
         <StatusBar Margin="0,538,-2,0" RenderTransformOrigin="0.5,0.5" Padding="0" MaxHeight="20" VerticalAlignment="Bottom">
             <TextBlock x:Name="textBlock" TextWrapping="Wrap" Width="130"><Run Text="Build: "/><Run Text="v0.0.1-alpha"/></TextBlock>
