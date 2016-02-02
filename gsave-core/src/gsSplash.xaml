@@ -9,5 +9,6 @@
         Title="Loading" Height="300" Width="400" ResizeMode="NoResize" WindowStyle="None" AllowsTransparency="True" Icon="gsavelogowhite.ico" WindowStartupLocation="CenterScreen">
     <Grid>
         <Image gif:ImageBehavior.AnimatedSource="Images/loading.gif" />
+        <TextBox Name="txtStatus" Text="" AcceptsReturn="True" IsReadOnly="True" VerticalAlignment="Top" Width="120" TextWrapping="Wrap" Background="{x:Null}" Foreground="White" Margin="140,235,140,0" />
     </Grid>
 </Window>
