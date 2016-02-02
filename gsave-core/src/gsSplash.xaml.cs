@@ -22,9 +22,6 @@ namespace gsaveapp
         public gsSplash()
         {
             InitializeComponent();
-            // Method 1. Center at initilization
-            
-            
         }
         
     }

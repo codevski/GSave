@@ -18,12 +18,13 @@ namespace gsaveapp
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class gsMain : Window
     {
-        public MainWindow()
+        public gsMain()
         {
             InitializeComponent();
-            
+            Hide();
+
         }
 
         private void MenuItem_Click(object sender, RoutedEventArgs e)
