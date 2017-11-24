@@ -15,10 +15,6 @@ Please view our [Wiki](https://github.com/techabyte/Arclight-Origins/wiki) on ho
 4. Push to the branch: `git push origin my-new-feature`
 5. Submit a pull request :D
 
-## Credits
-
-Saso Petrovski
-
 ## License
 
 GNU General Public License v3.0
